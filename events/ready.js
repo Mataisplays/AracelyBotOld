@@ -2,7 +2,7 @@ const fs = require("fs")
 const Discord = require("discord.js")
 module.exports = async (client) => {//Exportamos
   
-  console.log(`Todo salio correcto UwU`);//Para saber si se prendio el bot
+  console.log(`Conectado a discord correctamente`);//Para saber si se prendio el bot
 
 
   setInterval(() => {//Hacemos un intervalo
