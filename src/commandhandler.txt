@@ -1,0 +1,16 @@
+const Discord = require('discord.js');
+const { Client, MessageEmbed, Collection, Guild } = require('discord.js'); 
+
+module.exports = {
+  name: "", 
+  alias: [""],
+  description: "",
+  usage: "",
+  perms: [],
+  clientperms: [],
+  
+execute (client, message, args){
+
+ }
+
+} 
